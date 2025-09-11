@@ -1,0 +1,45 @@
+Project Title: FinSmart CRM – Loan & Customer Relationship Management System
+Industry: Banking & Financial Services
+Target Users: Loan Officers, Customers, Risk Analysts, and Bank Managers
+
+Problem Statement:
+A leading bank receives thousands of loan applications every month across different channels such as branch offices, online forms, and partner agencies. However, the loan approval and repayment management process faces multiple challenges:
+•	Loan application intake and approvals are manual and time-consuming, leading to delays.
+•	Repayment schedules are not tracked efficiently, causing high default risks.
+•	Customers do not receive personalized offers based on their credit history and past transactions.
+•	Managers lack real-time visibility into portfolio risk, loan performance, and defaulter trends.
+To address these issues, the bank wants to implement a Salesforce-based FinSmart CRM that will:
+•	Automate loan application intake, verification, and approval workflows.
+•	Provide customers with a portal to apply for loans and track their status.
+•	Send automated reminders for repayment schedules and overdue accounts.
+•	Integrate with credit bureau APIs for credit score checks.
+•	Deliver dashboards and reports on loan portfolio health, repayment performance, and revenue growth.
+
+Use Cases:
+1. Loan Application Management
+•	Customers apply for different loans (Home, Car, Personal) via portal.
+•	Applications auto-assigned to loan officers based on region/loan type.
+•	Credit bureau integration to fetch applicant credit score.
+•	Officers verify documents, then escalate for approval.
+2. Loan Approval Process
+•	Automated approval/rejection workflow based on loan type, amount, and credit score.
+•	Manager approval required for high-value loans.
+•	Customers notified instantly of approval/rejection.
+3. Repayment Tracking
+•	Repayment schedule auto-generated post-approval.
+•	Customers receive automated SMS/email reminders for EMIs.
+•	Overdue repayments flagged → escalated to officers.
+•	Loan status auto-updated (Active, Closed, Default).
+4. Personalized Loan Offers
+•	Track customer history & eligibility.
+•	System generates personalized offers (top-up loans, insurance, credit cards).
+5. Customer Portal
+•	Customers view loan status, repayment schedule, offers.
+•	Upload documents securely.
+•	Receive reminders & alerts directly in portal.
+6. Reporting & Dashboards
+•	Loan funnel: Applications → Approved → Disbursed.
+•	Portfolio risk dashboard → overdue/defaulted loans.
+•	Revenue dashboards by branch & loan type.
+•	Loan officer performance metrics.
+
